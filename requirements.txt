@@ -1,0 +1,6 @@
+cupy-cuda112==9.2.0
+opencv-python==4.5.3.56
+torchvision==0.10.0
+easydict==1.9
+scikit-image==0.17.2
+opencv-contrib-python==4.5.3.56
